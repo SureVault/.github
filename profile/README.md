@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="SV_logo_512.png" width="120">
+</p>
+
 # SureVault Protocol
 
 Decentralized staking and tokenized vault infrastructure on Polygon.
